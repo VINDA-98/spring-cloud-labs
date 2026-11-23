@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>top.weidaboy</groupId>
-    <artifactId>springcloud</artifactId>
+    <artifactId>spring-cloud-labs</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>springcloud-api</module>
@@ -13,7 +13,7 @@
         <module>springcloud-consumer-dept-80</module>
         <module>springcloud-eureka-7001</module>
         <module>springcloud-eureka-7002</module>
-        <module>springcloud-consumer-dept-feign</module>
+        <module>springcloud-consumer-dept-feign-80</module>
         <module>springcloud-provider-dept-hystrix-8001</module>
         <module>springcloud-consumer-hystrix-dashboard</module>
         <module>springcloud-zuul-9527</module>

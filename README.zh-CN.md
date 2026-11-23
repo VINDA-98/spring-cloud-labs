@@ -10,4 +10,4 @@
 | 故障处理与路由 | [Hystrix 服务提供方](springcloud-provider-dept-hystrix-8001)、[Hystrix 监控面板](springcloud-consumer-hystrix-dashboard)和 [Zuul 网关](springcloud-zuul-9527)。 |
 | 集中配置 | [Config Server](springcloud-config-server-3344) 和 [Config Client](springcloud-config-client-3355)。 |
 
-根目录的 [POM](pom.xml) 将 Feign 模块声明为 `springcloud-consumer-dept-feign`，仓库中的实际目录是 `springcloud-consumer-dept-feign-80`。从根目录构建全部模块前，需要让两者一致。部门服务提供方的示例还需要配置 MySQL。
+根目录的 [POM](pom.xml) 列出了 Maven 聚合构建包含的模块。部门服务提供方的示例需要配置 MySQL。
