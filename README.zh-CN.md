@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-一组使用 Spring Cloud Greenwich 和 Spring Boot 2.1 的 Maven 示例。代码围绕部门服务展开，涵盖服务发现、远程调用、故障处理、网关路由和集中配置。
+一组围绕部门服务展开的 Maven 实验。示例使用 Spring Cloud Greenwich 和 Spring Boot 2.1，演示服务发现、远程调用、故障处理、网关路由和集中配置。
 
 | 主题 | 阅读入口 |
 | --- | --- |

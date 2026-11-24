@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A Maven workspace for learning service discovery, remote calls, failure handling, routing, and centralized configuration with Spring Cloud Greenwich and Spring Boot 2.1. The examples use a shared department-service contract.
+A Maven lab workspace built around a department service. The examples use Spring Cloud Greenwich and Spring Boot 2.1 to demonstrate discovery, remote calls, failure handling, gateway routing and centralized configuration.
 
 | Topic | Where to start |
 | --- | --- |
